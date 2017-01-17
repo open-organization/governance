@@ -1,24 +1,30 @@
 # The Open Organization Ambassadors Program at Opensource.com
 
-## Purpose
+## Our vision
 
-The Open Organization Ambassadors are a group of Opensource.com community members dedicated to teaching others about the ways open source principles can enhance (and ultimately reshape) organizational cultures.
+We are the Open Organization Ambassadors, a group of Opensource.com community members dedicated to teaching others about the ways open source principles can enhance (and ultimately reshape) organizational cultures.
 
-More specifically, participants write about, discuss, and evangelize organizational cultures predicated on transparency, adaptability, collaboration, inclusivity, and community.
+We write about, discuss, and evangelize organizational cultures predicated on transparency, adaptability, collaboration, inclusivity, and community.
 
-Participants are committed to:
+## Our commitments
 
-* Exploring the nature of open source values in order to better understand how they are influencing organizational culture
+We're committed to:
 
-* Translating community-specific vocabularies for general audiences seeking to understand the benefits of an open approach to management and leadership in multiple contexts
+* **Learning.** We're researching the ways open source values so we can better understand how they are influencing today's innovative organizational cultures, and we're always refining  the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
 
-* Engaging in conversations that continually refine and extend the "open organization" concept, and differentiating or distinguishing this concept from seemingly similar approaches to management and leadership
+* **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
 
-* Becoming a trusted resource for anyone interested in leveraging the power of open principles in an organization
+* **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
 
-They do this by:
+* **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of open thinking applied to organizational contexts.
+
+## Our methods
+
+We do all this by:
 
 * Publishing informative and exploratory articles on the nature of openness in contemporary organizations
+
+* Speaking at industry and community-focused events
 
 * Connecting with and interviewing innovative leaders, managers, and practitioners innovating in an open manner
 
@@ -26,15 +32,15 @@ They do this by:
 
 ## Selection/Candidacy
 
-The Open Organization team at Opensource.com will invite particularly engaged community members, thought-leaders, and practitioners to join the program. Current members can also nominate potential members.
+The Open Organization team at Opensource.com invites particularly engaged community members and practitioners to join the program. Current members can also nominate potential members.
 
-Participants can contribute at any of the following participation tiers:
+People who join us can contribute at any of the following participation tiers:
 
 * Supporter
 * Contributor
 * Ambassador
 
-To discuss participation in any capacity, please contact the (Opensource.com staff)[https://opensource.com/contact] or [the open organization ambassadors](https://github.com/open-organization-ambassadors/).
+To discuss participation in any capacity, just contact the (Opensource.com staff)[https://opensource.com/contact] or [the open organization ambassadors](https://github.com/open-organization-ambassadors/).
 
 ## Membership Benefits
 
