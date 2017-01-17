@@ -1,12 +1,12 @@
 # The Open Organization Ambassadors Program at Opensource.com
 
-## Our vision
+## Our Vision
 
 We are the Open Organization Ambassadors, a group of Opensource.com community members dedicated to teaching others about the ways open source principles can enhance (and ultimately reshape) organizational cultures.
 
 We write about, discuss, and evangelize organizational cultures predicated on transparency, adaptability, collaboration, inclusivity, and community.
 
-## Our commitments
+## Our Commitments
 
 We're committed to:
 
@@ -18,7 +18,7 @@ We're committed to:
 
 * **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of open thinking applied to organizational contexts.
 
-## Our methods
+## Our Methods
 
 We do all this by:
 
@@ -34,13 +34,21 @@ We do all this by:
 
 The Open Organization team at Opensource.com invites particularly engaged community members and practitioners to join the program. Current members can also nominate potential members.
 
-People who join us can contribute at any of the following participation tiers:
+Our community consists of members from a wide variety of backgrounds—people from any number of different of domains who possess varying levels of experience and technical proficiencies. Successful ambassadors need simply:
+
+* Consider themselves champions of [open values and principles](https://opensource.com/open-organization/resources/open-org-definition),
+
+* Care about the ways those values can help create better organizational experiences for everyone, and
+
+* Enjoy working productively with others who feel the same way.
+
+Community members perform one of three common roles:
 
 * Supporter
 * Contributor
 * Ambassador
 
-To discuss participation in any capacity, just contact the (Opensource.com staff)[https://opensource.com/contact] or [the open organization ambassadors](https://github.com/open-organization-ambassadors/).
+To discuss participation in any capacity, just contact the [Opensource.com staff](https://opensource.com/contact) or [the open organization ambassadors](https://github.com/open-organization-ambassadors/).
 
 ## Membership Benefits
 
