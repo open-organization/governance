@@ -16,7 +16,7 @@ We're committed to:
 
 * **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
 
-* **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of open thinking applied to organizational contexts.
+* **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
 
 ## Our Methods
 
@@ -30,9 +30,9 @@ We do all this by:
 
 * Maintaining a repository of high-quality, immediately accessible, and vetted resources anyone can use to implement open principles in their teams or organizations
 
-## Selection/Candidacy
+## Our Members
 
-The Open Organization team at Opensource.com invites particularly engaged community members and practitioners to join the program. Current members can also nominate potential members.
+To discuss your participation in the ambassador community, just contact the [Opensource.com staff](https://opensource.com/contact) or and [open organization ambassador](https://github.com/open-organization-ambassadors/). Of course, current members can—and do—nominate potential participants.
 
 Our community consists of members from a wide variety of backgrounds—people from any number of different of domains who possess varying levels of experience and technical proficiencies. Successful ambassadors need simply:
 
@@ -42,13 +42,11 @@ Our community consists of members from a wide variety of backgrounds—people fr
 
 * Enjoy working productively with others who feel the same way.
 
-Community members perform one of three common roles:
+Community members join the group through their participation Opensource.com, where they perform one of three common roles:
 
 * Supporter
 * Contributor
 * Ambassador
-
-To discuss participation in any capacity, just contact the [Opensource.com staff](https://opensource.com/contact) or [the open organization ambassadors](https://github.com/open-organization-ambassadors/).
 
 ## Membership Benefits
 
