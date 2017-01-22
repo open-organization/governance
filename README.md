@@ -8,7 +8,5 @@ This repository contains a working description of the open organization ambassad
 
 The [current version](https://opensource.com/open-organization/resources/ambassadors-program) is:
 
-1.0  
+2.0  
 January 2017
-
-
