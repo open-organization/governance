@@ -123,3 +123,13 @@ Ambassadors will undertake the same responsibilities as supporters and contribut
 Supporters and contributors may remain in the program as long as doing so remains mutually beneficial for both participants and community.
 
 Ambassadors serve one-year minimum commitments. At the conclusion of their respective terms, ambassadors will discuss plans to renew or complete their commitments.
+
+## Revision History
+
+Version 2.0  
+Updated January 2017  
+The Open Organization Ambassadors at Opensource.com
+
+## License
+
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
