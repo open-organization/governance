@@ -128,7 +128,7 @@ Ambassadors serve one-year minimum commitments. At the conclusion of their respe
 
 Version 2.0  
 Updated January 2017  
-The Open Organization Ambassadors at Opensource.com
+[The Open Organization Ambassadors at Opensource.com](https://opensource.com/open-organization/resources/meet-ambassadors)
 
 ## License
 
