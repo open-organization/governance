@@ -10,7 +10,7 @@ We write about, discuss, and evangelize organizational cultures predicated on tr
 
 We're committed to:
 
-* **Learning.** We're researching the ways open source values so we can better understand how they are influencing today's innovative organizational cultures, and we're always refining  the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
+* **Learning.** We're researching open source values so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
 
 * **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
 
@@ -110,7 +110,7 @@ Contributors will undertake the same responsibilities as supporters, as well as:
 
 Ambassadors will undertake the same responsibilities as supporters and contributors, as well as:
 
-* Provide original articles for publication on Opensource.com, typically one every month (additionally, ambassadors can curate articles from writers in their respective professional networks for publication)
+* Provide original articles for publication on Opensource.com, typically one every two months (additionally, ambassadors can curate articles from writers in their respective professional networks for publication)
 
 * Contribute to community-generated materials and resources, such as printed companion volumes and other downloadable materials
 
@@ -127,7 +127,7 @@ Ambassadors serve one-year minimum commitments. At the conclusion of their respe
 ## Revision History
 
 Version 2.0  
-Updated January 2017  
+Updated March 2019  
 [The Open Organization Ambassadors at Opensource.com](https://opensource.com/open-organization/resources/meet-ambassadors)
 
 ## License
