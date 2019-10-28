@@ -32,7 +32,7 @@ We do all this by:
 
 ## Our Members
 
-To discuss your participation in the ambassador community, just contact the [Opensource.com staff](https://opensource.com/contact) or and [open organization ambassador](https://github.com/open-organization-ambassadors/). Of course, current members can—and do—nominate potential participants.
+To discuss your participation in the ambassador community, just contact the [Opensource.com staff](https://opensource.com/contact) or an [open organization ambassador](https://github.com/open-organization-ambassadors/). Of course, current members can—and do—nominate potential participants.
 
 Our community consists of members from a wide variety of backgrounds—people from any number of different of domains who possess varying levels of experience and technical proficiencies. Successful ambassadors need simply:
 
