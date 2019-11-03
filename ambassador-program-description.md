@@ -47,6 +47,7 @@ Community members join the group through their participation Opensource.com, whe
 * Supporter
 * Contributor
 * Ambassador
+* Ambassador Emertius
 
 ## Membership Benefits
 
@@ -88,6 +89,18 @@ Ambassadors receive all benefits supporters and contributors do, as well as:
 
 * Special designation as an ambassador on Opensource.com
 
+### Ambassador Emeritus
+
+Ambassadors who hold that position for at least one year and leave the program in good standing are eligible for emeritus status.
+
+Ambassators Emeriti receive all benefits supporters and contributors do, as well as:
+
+* Standing invitation to monthly online ambassador meetings and annual in-person ambassador meetings
+
+* Access to an ambassadors-only electronic mailing list
+
+* Opportunities to network and engage with other ambassadors (in-person meetings, etc.) and to extend their professional connections
+
 ## Membership Responsibilities
 
 ### Supporter
@@ -118,6 +131,10 @@ Ambassadors will undertake the same responsibilities as supporters and contribut
 
 * Attend optional in-person meetings and working sessions
 
+### Ambassador Emeritus
+
+Ambassadors Emeriti have no specific obligations. They are encouraged to participate in any of the above ways as time and interest permit.
+
 ## Membership Duration
 
 Supporters and contributors may remain in the program as long as doing so remains mutually beneficial for both participants and community.
@@ -126,8 +143,8 @@ Ambassadors serve one-year minimum commitments. At the conclusion of their respe
 
 ## Revision History
 
-Version 2.0  
-Updated March 2019  
+Version 2.1  
+Updated October 2019  
 [The Open Organization Ambassadors at Opensource.com](https://opensource.com/open-organization/resources/meet-ambassadors)
 
 ## License
