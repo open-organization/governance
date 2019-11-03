@@ -131,7 +131,7 @@ Ambassadors will undertake the same responsibilities as supporters and contribut
 
 * Attend optional in-person meetings and working sessions
 
-#### Ambassador Emeritus
+### Ambassador Emeritus
 
 Ambassadors Emeriti have no specific obligations. They are encouraged to participate in any of the above ways as time and interest permit.
 
