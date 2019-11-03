@@ -89,18 +89,17 @@ Ambassadors receive all benefits supporters and contributors do, as well as:
 
 * Special designation as an ambassador on Opensource.com
 
-#### Ambassador Emeritus
+### Ambassador Emeritus
 
 Ambassadors who hold that position for at least one year and leave the program in good standing are eligible for emeritus status.
+
 Ambassators Emeriti receive all benefits supporters and contributors do, as well as:
 
-* Invitation to monthly online ambassador meetings and annual in-person ambassador meetings
+* Standing invitation to monthly online ambassador meetings and annual in-person ambassador meetings
 
 * Access to an ambassadors-only electronic mailing list
 
 * Opportunities to network and engage with other ambassadors (in-person meetings, etc.) and to extend their professional connections
-
-* Special designation as an ambassador emeritus on Opensource.com
 
 ## Membership Responsibilities
 
@@ -134,8 +133,7 @@ Ambassadors will undertake the same responsibilities as supporters and contribut
 
 #### Ambassador Emeritus
 
-Ambassadors Emeriti have no specific obligations.
-They are encouraged to participate in any of the above ways as time and interest permit.
+Ambassadors Emeriti have no specific obligations. They are encouraged to participate in any of the above ways as time and interest permit.
 
 ## Membership Duration
 
