@@ -1,151 +1,87 @@
-# The Open Organization Ambassadors Program at Opensource.com
+# The Open Organization Project
 
 ## Our Vision
 
-We are the Open Organization Ambassadors, a group of Opensource.com community members dedicated to teaching others about the ways open source principles can enhance (and ultimately reshape) organizational cultures.
+The Open Organization project is a community dedicated to exploring how open principles change the ways we work, manage, and lead.
 
-We write about, discuss, and evangelize organizational cultures predicated on transparency, adaptability, collaboration, inclusivity, and community.
+Our community members study and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
 
 ## Our Commitments
 
 We're committed to:
 
-* **Learning.** We're researching open source values so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
-
-* **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
-
-* **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
-
-* **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
+- **Learning.** We're researching open source values so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
+- **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
+- **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
+- **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
 
 ## Our Methods
 
 We do all this by:
 
-* Publishing informative and exploratory articles on the nature of openness in contemporary organizations
+- Publishing articles, books, and other resources exploring the nature of openness in contemporary organizations
+- Exhibiting and speaking at industry and community-focused events
+- Connecting with and interviewing innovative leaders, managers, and practitioners innovating in an open manner
+- Maintaining a repository of high-quality, immediately accessible, vetted resources anyone can use to implement open principles in their teams or organizations
 
-* Speaking at industry and community-focused events
+## Our Contributors
 
-* Connecting with and interviewing innovative leaders, managers, and practitioners innovating in an open manner
+The Open Organization project welcomes contributors of all kinds.
 
-* Maintaining a repository of high-quality, immediately accessible, and vetted resources anyone can use to implement open principles in their teams or organizations
+Our community members have diverse backgrounds; they're people from a number of different of domains (consulting, education, non-profits, open source software development, and more) who possess varying levels of experience and technical proficiencies. But they all:
 
-## Our Members
+- Consider themselves champions of [open values and principles](https://opensource.com/open-organization/resources/open-org-definition),
+- Care about the ways those values can help create better organizational experiences for everyone, and
+- Enjoy working productively with others who feel the same way.
 
-To discuss your participation in the ambassador community, just contact the [Opensource.com staff](https://opensource.com/contact) or an [open organization ambassador](https://github.com/open-organization-ambassadors/). Of course, current members can—and do—nominate potential participants.
+Consider contributing to the project by:
 
-Our community consists of members from a wide variety of backgrounds—people from any number of different of domains who possess varying levels of experience and technical proficiencies. Successful ambassadors need simply:
+- Asking your questions about open organizational theory and practice on [our community mailing list](https://www.redhat.com/mailman/listinfo/openorg-list)
+- Sharing your experience with open organizational practices (the successes and the failures!) with our community of practitioners
+- Composing an article, book chapter, or other openly licensed resource for the community
+- Helping refine, maintain, and translate our materials
+- Fixing typos in or suggesting corrections to our written materials, like the *Open Organization* book series
+- Helping organize community activities and events, such Twitter chats and virtual book clubs
 
-* Consider themselves champions of [open values and principles](https://opensource.com/open-organization/resources/open-org-definition),
+Contributing to the project provides you with:
 
-* Care about the ways those values can help create better organizational experiences for everyone, and
+- Access to community-supported networks of open organizational experts who can help you address and overcome organizational challenges
+- Opportunities to influence the direction of community-produced resources
+- Opportunities to meet, interview, and interact with open source and open organization thought-leaders, advocates, and activists across the globe
 
-* Enjoy working productively with others who feel the same way.
+## Our Ambassadors
 
-Community members join the group through their participation Opensource.com, where they perform one of three common roles:
+Project contributors with a history of beneficial contributions a reputation for effective community collaboration can become Open Organization Ambassadors. Ambassadors are core community contributors who receive:
 
-* Supporter
-* Contributor
-* Ambassador
-* Ambassador Emertius
+- Write privileges in community GitHub repositories
+- Invitations to monthly online meetings and annual in-person meetings
+- Opportunities to represent the community at events
+- Access to an ambassadors-only [discussion forum](www.theopenorganization.community) for community planning and goal-setting
+- Complimentary copies of printed community resources (as available) to distribute to their professional networks
 
-## Membership Benefits
+Contributors can become ambassadors by nominating themselves or receiving a nomination from an Open Organization Ambassador in good standing. In the case of self-nomination, the contributor should open a GitHub issue in the repository containing this document. In the case of nomination by an acting Ambassador, the Ambassador should open the issue. In either case, the issue should clearly outline the nominee's history of contributions to the project and explain the nominee's interest in deepening they're investment in the community.
 
-Members of the program receive the following benefits.
+The community will discuss the nomination for a period of no more than 72 hours. During that time, current Ambassadors can offer their support for the nomination of raise objections to it.
 
-### Supporter
+A nomination receiving "net-positive" support from at least three current Ambassadors is approved. This means that:
 
-Supporters receive:
+- if a nomination receives approval from three Ambassadors, it is approved
+- if a nomination receives approval from four Ambassadors, and an objection from one, it is approved
+- and so on
 
-* Priority assistance from the Opensource.com editorial team
+Ambassadors pledge a minimum commitment of one year. At the conclusion of their respective terms, ambassadors will discuss plans to renew or complete their commitments.
 
-* Advance notice of story ideas/writing opportunities
+Ambassadors who hold that position for at least one year and leave the program in good standing are eligible for emeritus status. Ambassadors Emeriti receive all benefits supporters and contributors do, as well as:
 
-* Access to Opensource.com's global publishing platform and content distribution system
-
-### Contributor
-
-Contributors receive all benefits supporters do, as well as:
-
-* Access to community networks (such as mailing lists and discussion forums)
-
-* Opportunities to influence the direction of community-produced resources
-
-* Opportunities to meet, interview, and interact with open source and open organization thought-leaders, advocates, and activists
-
-### Ambassador
-
-Ambassadors receive all benefits supporters and contributors do, as well as:
-
-* Complimentary copies of The Open Organization and associated companion volumes to distribute to their professional networks 
-
-* Invitation to monthly online ambassador meetings and annual in-person ambassador meetings
-
-* Access to an ambassadors-only electronic mailing list
-
-* Write privileges in ambassador community GitHub repositories
-
-* Opportunities to network and engage with other ambassadors (in-person meetings, etc.) and to extend their professional connections
-
-* Special designation as an ambassador on Opensource.com
-
-### Ambassador Emeritus
-
-Ambassadors who hold that position for at least one year and leave the program in good standing are eligible for emeritus status.
-
-Ambassators Emeriti receive all benefits supporters and contributors do, as well as:
-
-* Standing invitation to monthly online ambassador meetings and annual in-person ambassador meetings
-
-* Access to an ambassadors-only electronic mailing list
-
-* Opportunities to network and engage with other ambassadors (in-person meetings, etc.) and to extend their professional connections
-
-## Membership Responsibilities
-
-### Supporter
-
-Supporters will:
-
-* Regularly promote open organization-themed stories and materials via social media outlets and other open source news, leadership, and management syndication venues (news aggregators such as LinkedIn, Reddit, Hacker News, etc.)
-
-* Connect potential authors and other interested/engaged parties with the open organization community
-
-### Contributor
-
-Contributors will undertake the same responsibilities as supporters, as well as:
-
-* Provide original articles for publication on Opensource.com, typically one every two months
-
-* Assist with and participate in community activities and events, such Twitter chats and book clubs
-
-### Ambassador
-
-Ambassadors will undertake the same responsibilities as supporters and contributors, as well as:
-
-* Provide original articles for publication on Opensource.com, typically one every two months (additionally, ambassadors can curate articles from writers in their respective professional networks for publication)
-
-* Contribute to community-generated materials and resources, such as printed companion volumes and other downloadable materials
-
-* Attend optional monthly community meetings
-
-* Attend optional in-person meetings and working sessions
-
-### Ambassador Emeritus
-
-Ambassadors Emeriti have no specific obligations. They are encouraged to participate in any of the above ways as time and interest permit.
-
-## Membership Duration
-
-Supporters and contributors may remain in the program as long as doing so remains mutually beneficial for both participants and community.
-
-Ambassadors serve one-year minimum commitments. At the conclusion of their respective terms, ambassadors will discuss plans to renew or complete their commitments.
+- Standing invitation to monthly online ambassador meetings and annual in-person ambassador meetings
+- Access to an ambassadors-only discussion forum
+- Opportunities to network and engage with other ambassadors (in-person meetings, etc.) and to extend their professional connections
 
 ## Revision History
 
-Version 2.1  
-Updated October 2019  
-[The Open Organization Ambassadors at Opensource.com](https://opensource.com/open-organization/resources/meet-ambassadors)
+Version 3.0  
+Updated April 2020  
+The Open Organization Ambassadors
 
 ## License
 
