@@ -37,7 +37,7 @@ Our community members have diverse backgrounds; they're people from a number of 
 ## Revision History
 
 Version 3.0  
-Updated April 2020  
+Updated May 2020  
 The Open Organization Ambassadors
 
 ## License
