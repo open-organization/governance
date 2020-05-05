@@ -35,7 +35,7 @@ Project contributors with a history of beneficial contributions a reputation for
 
 Contributors can become ambassadors by nominating themselves or receiving a nomination from an Open Organization Ambassador in good standing. In the case of self-nomination, the contributor should open a GitHub issue in the project's [governance repository](https://github.com/open-organization/governance). In the case of nomination by an acting Ambassador, the Ambassador should open the issue. In either case, the issue should clearly outline the nominee's history of contributions to the project and explain the nominee's interest in deepening they're investment in the community.
 
-The community will discuss the nomination for a period of no more than 72 hours. During that time, current Ambassadors can offer their support for the nomination of raise objections to it.
+The community will discuss the nomination for a period of no more than one week after the issue is filed. During that time, current Ambassadors can offer their support for the nomination or raise objections to it.
 
 A nomination receiving "net-positive" support from at least two non-nominating Ambassadors is approved. This means that:
 
