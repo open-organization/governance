@@ -1,5 +1,3 @@
-# Open Organization Project Community Governance
+# Open Organization project and community governance
 
-## About
-
-This repository contains materials concerning governance of the Open Organization project and community.
+This repository contains materials related to governance of the Open Organization project and community.
