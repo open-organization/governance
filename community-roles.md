@@ -1,5 +1,3 @@
-# Open Organization Community Roles
-
 ## Contributors
 
 Contributing to the Open Organization project provides you with:
@@ -12,7 +10,7 @@ Contributing to the Open Organization project provides you with:
 
 Ready to make a contribution? Consider:
 
-- Asking your questions or offering your insights about open organizational theory and practice at our [hub for community discussion](http://www.theopenorganization.community)
+- Asking your questions or offering your insights about open organizational theory and practice at our [hub for community discussion](http://theopenorganization.community)
 - Sharing your experience with open organizational practices (the successes and the failures!) with our community of practitioners
 - Composing an article, book chapter, or other openly licensed resource for the community (see our open issues!)
 - Helping refine, maintain, and translate our materials
@@ -28,7 +26,7 @@ Project contributors with a history of beneficial contributions a reputation for
 - Write privileges to the community's GitHub wiki
 - Invitations to monthly online meetings and annual in-person meetings
 - Opportunities to represent the community at events
-- Access to ambassadors-only [discussion fora](www.theopenorganization.community) for community planning and goal-setting
+- Access to ambassadors-only [discussion fora](http://theopenorganization.community) for community planning and goal-setting
 - Complimentary copies of printed community resources (as available) to distribute to their professional networks
 
 ### Becoming an ambassador
@@ -60,3 +58,13 @@ Ambassadors expressing interest in leading and maintaining community-driven proj
 ### Becoming a maintainer
 
 Ambassadors can become maintainers through repeat contributions to the projects they wish to maintain. An Ambassador wishing to become a maintainer can identify an unmaintained project and volunteer to maintain it. An Ambassador can also identify project whose current maintainer seeks to either share or relinquish maintainership. In this case, the project's current maintainer can choose a co-maintainer or a successor.
+
+## Revision History
+
+Version 1.0  
+Updated May 2020  
+The Open Organization Ambassadors
+
+## License
+
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)

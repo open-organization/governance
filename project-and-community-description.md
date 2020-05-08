@@ -28,7 +28,7 @@ We do all this by:
 
 The Open Organization project welcomes contributors of all kinds.
 
-Our community members have diverse backgrounds; they're people from a number of different of domains (consulting, education, non-profits, open source software development, and more) who possess varying levels of experience and technical proficiencies. But they all:
+Our community members have diverse backgrounds; they're people from a number of different of domains (consulting, education, non-profits, open source software development, and more) who possess varying levels of experience and technical proficiencies. They [play different roles](https://github.com/open-organization/governance/wiki/Community-Roles) in the Open Organization project. But they all:
 
 - Consider themselves champions of open organizational values and principles, as outlined in the [Open Organization Definition](https://github.com/open-organization/open-org-definition),
 - Care about the ways those values can help create better organizational experiences for everyone, and
@@ -43,3 +43,4 @@ The Open Organization Ambassadors
 ## License
 
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
