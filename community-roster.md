@@ -27,7 +27,7 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | ------ |
 | [Jono Bacon](https://github.com/jonobacon) |
 | Michael Doyle |
-| Philip Foster |
+| [Philip Foster](https://github.com/maximumchange) |
 | [Robin Muilwijk](https://github.com/robinmuilwijk) |
 | [Angela Robertston](https://github.com/arob98) |
 | [Chad Whitacre](https://github.com/chadwhitacre) |
