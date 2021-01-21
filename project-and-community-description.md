@@ -10,7 +10,7 @@ Our community members generate knowledge and share strategies for building organ
 
 We're committed to:
 
-- **Empowering.** We're a trusted source of expertise for anyone interested in leveraging the power of open principles to improve their organizations.
+- **Empowering.** We offer our expertise to anyone interested in leveraging the power of open principles to improve their organizations.
 - **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
 - **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
 - **Learning.** We research open values and principles so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
