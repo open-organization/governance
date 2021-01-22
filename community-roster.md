@@ -33,3 +33,8 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Angela Robertston](https://github.com/arob98) |
 | [Chad Whitacre](https://github.com/chadwhitacre) |
 | [Huiren Woo](https://github.com/GIANTCRAB) |
+
+## Revision history
+
+Updated January 2021  
+The Open Organization Ambassadors
