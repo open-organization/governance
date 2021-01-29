@@ -43,7 +43,8 @@ The print materials maintainer oversees the Open Organization project's print pr
 
 - Establishing editorial direction for printed materials
 - Ensuring articles and other printed materials move successfully through [the editorial process](https://github.com/open-organization/editorial/wiki/Open-Organization-Community-Editorial-Process)
-- Review and edit work from authors of printed materials, and prepare these materials for publication
+- Reviewing and editing work from authors of printed materials
+- Preparing printed materials for publication
 - Coordinating release of printed materials with other materials maintainers
 - Coordinating announcement of printed materials on social media
 - Working with authors to publish work in the *Open Organization* book series
