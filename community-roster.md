@@ -5,7 +5,7 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 ## Ambassadors
 
 | Member | Organization | About | Areas of Expertise |
-| ------ | -------------| ----- | ------------------ |
+| ------ | ------------ | ----- | ------------------ |
 | [Lauri Apple](https://github.com/LappleApple) |  | Lauri Apple is the creator of both the Awesome Leadership and Management List and Feedmereadmes. | Open leadership, documentation, building agile teams |
 | [Bryan Behrenshausen](https://github.com//semioticrobotic) | Red Hat | Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat, where he supports upstream open source projects and develops learning materials on open source, open culture, and open organizations. | Building community, open governance models, open documentation and knowledge-sharing practices |
 | [Ben Cotton](https://github.com/funnelfiasco) | Red Hat | Ben Cotton works as the Fedora Program Manager at Red Hat. He co-founded a local open source meetup group, and is a member of the Open Source Initiative and a supporter of Software Freedom Conservancy. | Open leadership, communities |
@@ -33,6 +33,22 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Angela Robertston](https://github.com/arob98) |
 | [Chad Whitacre](https://github.com/chadwhitacre) |
 | [Huiren Woo](https://github.com/GIANTCRAB) |
+
+## Maintainers
+
+### Print materials maintainer
+Current maintainer: [Bryan Behrenshausen](https://github.com//semioticrobotic)
+
+The print materials maintainer oversees the Open Organization project's print products, including articles and books. Responsibilities include:
+
+- Establishing editorial direction for printed materials
+- Ensuring articles and other printed materials move successfully through [the editorial process](https://github.com/open-organization/editorial/wiki/Open-Organization-Community-Editorial-Process)
+- Review and edit work from authors of printed materials, and prepare these materials for publication
+- Coordinating release of printed materials with other materials maintainers
+- Coordinating announcement of printed materials on social media
+- Working with authors to publish work in the *Open Organization* book series
+- Maintaining the *Open Organization* book series on ``theopenorganization.org``, ``opensource.com``, and ``lulu.com``.
+
 
 ## Revision history
 
