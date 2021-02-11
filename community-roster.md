@@ -66,5 +66,5 @@ The multimedia materials maintainer oversees the Open Organization project's mul
 
 ## Revision history
 
-Updated January 2021  
+Updated February 2021  
 The Open Organization Ambassadors
