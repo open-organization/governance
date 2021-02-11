@@ -43,13 +43,26 @@ The print materials maintainer oversees the Open Organization project's print pr
 
 - Establishing editorial direction for printed materials
 - Ensuring articles and other printed materials move successfully through [the editorial process](https://github.com/open-organization/editorial/wiki/Open-Organization-Community-Editorial-Process)
-- Reviewing and editing work from authors of printed materials
+- Reviewing and editing work from contributors creating printed materials
 - Preparing printed materials for publication
 - Coordinating release of printed materials with other materials maintainers
 - Coordinating announcement of printed materials on social media
-- Working with authors to publish work in the *Open Organization* book series
+- Working with contributors to publish work in the *Open Organization* book series
 - Maintaining the *Open Organization* book series on ``theopenorganization.org``, ``opensource.com``, and ``lulu.com``.
 
+### Multimedia materials maintainer
+Current maintainer: [Jen Kelchner](https://github.com/jenkelchner)
+
+The multimedia materials maintainer oversees the Open Organization project's multimedia products, which include audio, video, and shareable graphics. Responsibilities include:
+
+- Establishing editorial direction for multimedia content materials
+- Ensuring video and other multimedia materials move successfully through the editorial process
+- Reviewing work from contributors creating multimedia materials; editing work as needed
+- Preparing multimedia materials for publication
+- Coordinating release of multimedia materials with other materials maintainers
+- Coordinating announcement of multimedia materials on social media
+- Working with contributors to publish work in the Open Organization YouTube channel
+- Maintaining the Open Organization YouTube channel
 
 ## Revision history
 
