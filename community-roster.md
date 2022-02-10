@@ -15,7 +15,6 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Jos Groen](https://github.com/JosGroenNL) | HBRD | | | [November 2020](https://github.com/open-organization/governance/issues/13#issuecomment-733757933) |
 | [Heidi Hess von Ludewig](https://github.com/HeidiHVL) | Red Hat | Heidi Hess von Ludewig is an Interlock Program manager who researches networked workplace creativity from the systems perspective, which means that she examines the relationships of multiple elements within the workplace that influence how individuals and groups perform innovative and creative work. | Interlock, innovation, social systems and culture | April 2018
 | [Laura Hilliger](https://github.com/LauraHilliger) | We Are Open Co-Op | Laura Hilliger is an artist, educator, writer, technologist, multimedia designer, developer, technical liaison, project manager, and Open Web hacktivist who is happiest in collaborative environments. | Open and inclusive leadership, building community, open principles in non-profits | October 2015 |
-| [Jen Kelchner](https://github.com/jenkelchner) | LDR21 | Jen Kelchner is the founder of LDR21 and advises organizational leaders on open leadership, cultures of trust, and engaging change based on open organization principles. | Leadership, culture, executive advisory | February 2017 |
 | [Sam Knuth](https://github.com/samuelknuth) | Red Hat | Sam Knuth leads the Customer Content Services team at Red Hat. | Making open decisions, open leadership | September 2015 |
 | [Heather Leson](https://github.com/heatherleson) | International Federation of Red Cross and Red Crescent Societies | Heather Leson is the Data Literacy Lead at International Federation of Red Cross and Red Crescent Societies supporting 191 National Societies and 11.6 million volunteers. | Open communities, open principles in humanitarian organizations | January 2019 |
 | [Ron McFarland](https://github.com/RonMcFarland) | Isuzu Motors (retired) | Ron McFarland has been working in Japan for 40 years, and he's spent more than 30 of them in international sales, sales management training, and expanding sales worldwide. | Building trustful teams | June 2016 |
@@ -31,6 +30,7 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Jono Bacon](https://github.com/jonobacon) |
 | Michael Doyle |
 | [Philip Foster](https://github.com/maximumchange) |
+| [Jen Kelchner](https://github.com/jenkelchner) |
 | [Robin Muilwijk](https://github.com/robinmuilwijk) |
 | [Angela Robertston](https://github.com/arob98) |
 | [Chad Whitacre](https://github.com/chadwhitacre) |
@@ -53,7 +53,7 @@ The print materials maintainer oversees the Open Organization project's print pr
 - Maintaining the *Open Organization* book series on ``theopenorganization.org``, ``opensource.com``, and ``lulu.com``.
 
 ### Multimedia materials maintainer
-Current maintainer: [Jen Kelchner](https://github.com/jenkelchner)
+*Maintainer needed*
 
 The multimedia materials maintainer oversees the Open Organization project's multimedia products, which include audio, video, and shareable graphics. Responsibilities include:
 
