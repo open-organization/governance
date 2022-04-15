@@ -79,5 +79,5 @@ The Infrastructure maintainer oversees the various tools, services, platforms, a
 
 ## Revision history
 
-Updated February 2022  
+Updated April 2022
 The Open Organization Ambassadors
