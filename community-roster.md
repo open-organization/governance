@@ -53,7 +53,7 @@ The print materials maintainer oversees the Open Organization project's print pr
 - Maintaining the *Open Organization* book series on ``theopenorganization.org``, ``opensource.com``, and ``lulu.com``.
 
 ### Multimedia materials maintainer
-*Maintainer needed*
+Current maintainer: [Jimmy Sjölund](https://github.com/jimmysjolund)
 
 The multimedia materials maintainer oversees the Open Organization project's multimedia products, which include audio, video, and shareable graphics. Responsibilities include:
 
@@ -65,6 +65,17 @@ The multimedia materials maintainer oversees the Open Organization project's mul
 - Coordinating announcement of multimedia materials on social media
 - Working with contributors to publish work in the Open Organization YouTube channel
 - Maintaining the Open Organization YouTube channel
+
+### Infrastructure maintainer
+Current maintainer: [Jimmy Sjölund](https://github.com/jimmysjolund)
+
+The Infrastructure maintainer oversees the various tools, services, platforms, and applications the Open Organization project requires. This person serves as technical liaison to Red Hat's Open Source Program Office and [Open Source Community Infrastructure](https://osci.io/) team, which provide technical resources and support for the project. Responsibilities include:
+
+- Ensuring technical functioning and reliability of the community's Discourse forum
+- Ensuring technical functioning and reliability of the project’s website
+- Maintaining the project’s organization on GitHub
+- Monitoring the project’s collaborative document editor on HedgeDoc
+- Managing the project’s archives on Google Drive
 
 ## Revision history
 
