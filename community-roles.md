@@ -55,7 +55,7 @@ Ambassadors who hold that position for at least one year and leave the program i
 
 ## Maintainers
 
-Ambassadors expressing interest in leading and maintaining community-driven projects can become maintainers of those projects. For example, a maintainer might act as lead editor of a volume in the *Open Organization* book series, coordinate revisions to the Open Organization Maturity Model, or launch a brand new project altogether. Maintainers establish project vision, set project timelines, recruit contributors to the project, and coordinate work associated with the project. Descriptions of current maintainer positions and associated responsibilities are available in [the community roster](https://github.com/open-organization/governance/wiki/Community-Roster).
+Ambassadors expressing interest in leading and maintaining community-driven projects can become maintainers of those projects. For example, a maintainer might act as lead editor of a volume in the *Open Organization* book series, coordinate revisions to the Open Organization Maturity Model, or launch a brand new project altogether. Maintainers establish project vision, set project timelines, recruit contributors to the project, and coordinate work associated with the project. Descriptions of current maintainer positions and associated responsibilities are available in [the community roster](https://github.com/open-organization/governance/wiki/Roster).
 
 ### Becoming a maintainer
 
