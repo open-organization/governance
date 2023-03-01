@@ -76,8 +76,3 @@ The Infrastructure maintainer oversees the various tools, services, platforms, a
 - Maintaining the project’s organization on GitHub
 - Monitoring the project’s collaborative document editor on HedgeDoc
 - Managing the project’s archives on Google Drive
-
-## Revision history
-
-Updated April 2022
-The Open Organization Ambassadors
