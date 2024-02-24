@@ -1,10 +1,10 @@
 # May 11, 2023 Meeting
-Meeting conducted at 08:30 Eastern / 13:30 UTC / 14:30 CET
 
-Meeting link:
-https://meet.google.com/uqu-iuik-iyp
+Meeting convened at 08:30 Eastern / 13:30 UTC / 14:30 CET
+Meeting conducted via Google Meet
 
 ## Attendees
+
 * Allison
 * Jimmy
 * Jos
@@ -15,6 +15,7 @@ https://meet.google.com/uqu-iuik-iyp
 * Shabnoor
 
 ## Publication Updates
+(none)
 
 ### Opensource.com
 With the recent changes within Red Hat Opensource.com will not continue to accept new publications. Current articles in process will be published, but the site will then go into an archive mode.
@@ -111,4 +112,3 @@ Been working within GitHub Engineering to re-define "How we communicate" as an o
 
 ## Next meeting
 Next Ambassador meeting will be 2023-06-12 at 08:30 EST / 14:30 CEST / 21:30 JST.
-
