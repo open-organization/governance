@@ -1,4 +1,4 @@
-# May 12, 2022 Meeting Notes
+# May 12, 2022 Meeting
 
 Meeting convened at 09:00 Eastern / 14:00 UTC / 15:00 CET  
 Meeting conducted via BlueJeans  

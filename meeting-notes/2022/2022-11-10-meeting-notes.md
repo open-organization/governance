@@ -1,4 +1,4 @@
-# November 10, 2022 Meeting Notes
+# November 10, 2022 Meeting
 
 Meeting convened at 08:30 Eastern / 13:30 UTC / 14:30 CET 
 Conducted via Google Meet
