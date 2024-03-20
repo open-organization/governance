@@ -1,19 +1,28 @@
+# March 21, 2024 Meeting
 
+Topic: Upcoming Discourse migration 
 
-Discourse migration meeting 
+## Attendees 
 
-Attendees: 
+* 
+* 
+* 
 
-
-Agenda:
+## Agenda
 
 1. Use of Jitsi (do we need an open source teleconference app or do we continue to use Google)? 
+
+
+
 
 2. Discourse migration
 
   a. concerns
   
   b. plan 
+
+
+
 
 3. Next steps and volunteers 
 
