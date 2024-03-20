@@ -1,7 +1,7 @@
 # April 14, 2022 Meeting
 
 Meeting convened at 09:00 Eastern / 14:00 UTC / 15:00 CET  
-Meeting condicted via BlueJeans
+Meeting conducted via BlueJeans
 
 ## Attendees
 
