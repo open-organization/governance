@@ -8,7 +8,7 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 
 | Member | Organization | About | Areas of Expertise | Joined |
 | ------ | ------------ | ----- | ------------------ | ------ |
-| [Bryan Behrenshausen](https://github.com//semioticrobotic) | Gitlab | Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat, where he supports upstream open source projects and develops learning materials on open source, open culture, and open organizations. | Building community, open governance models, open documentation and knowledge-sharing practices | [November 2020](https://github.com/open-organization/governance/issues/11#issuecomment-677825484) |
+| [Bryan Behrenshausen](https://github.com//semioticrobotic) | SAS | Bryan Behrenshausen is an open source program manger in the Open Source Program Office at SAS. | Building community, open governance models, open documentation and knowledge-sharing practices | [November 2020](https://github.com/open-organization/governance/issues/11#issuecomment-677825484) |
 | [Ben Cotton](https://github.com/funnelfiasco) | Docker | Ben Cotton works as the Fedora Program Manager at Red Hat. He co-founded a local open source meetup group, and is a member of the Open Source Initiative and a supporter of Software Freedom Conservancy. | Open leadership, communities | February 2019 |
 | [Jos Groen](https://github.com/JosGroenNL) | HBRD | | | [November 2020](https://github.com/open-organization/governance/issues/13#issuecomment-733757933) |
 | [Heidi Hess von Ludewig](https://github.com/HeidiHVL) | ... | Heidi Hess von Ludewig is a customer-focused Program manager. | Operations, transformation, program management, business analysis, data driven decision-making | April 2018
