@@ -10,37 +10,39 @@ Meeting conducted via Google Meet
 - Heather Leson
 - Jim Hall
 - Ronald McFarland
-- Bryan B
-
+- Bryan Behrenshausen
 
 ## Housekeeping
-
+(None)
 
 ## Project Updates
 ### Discourse to GitHub migration
-https://notes.theopenorganization.org/D3S_FmtpROmE5ZJ9YWuccA?view
+
+See [notes on this project](https://notes.theopenorganization.org/D3S_FmtpROmE5ZJ9YWuccA?view).
 
 - JS: Check if we can see statistics on accessed discussions, then discuss migrating popular ones, delete any threads not read in a certain amount of time.
 
 How far back do we want to migrate over?
 
-BB update, from 3/21: 
-- BB to archive Ron's stuff on coachingbuttons - update - migrated to GH
-- BB to migrate 2016 meeting notes - update - in progress 
-- BB to migrate Community reports - update - from 2019 is migrated
+BB update, from 3/21:
+
+- BB to archive Ron's stuff on coachingbuttons - update - archived to GH
+- BB to [migrate](https://github.com/open-organization/governance/tree/master) 2016 meeting notes - update: **done**
+- BB to [migrate](https://github.com/open-organization/governance/tree/master) community reports - update: **done**
 - ambassadors project, resource folder - update - migrated messaging guide, presentation archive, etc 
 
-
 1. cover the decision on what to move, not move, and move if possible
-Ron asked if we can see the click throughs / clicks on the different Discourse files? Jimmy is looking at what the click views are for the materials 
-Otherwise, framework seems ok to move forward
+
+  - Ron asked if we can see the click throughs / clicks on the different Discourse files? Jimmy is looking at what the click views are for the materials . Otherwise, framework seems ok to move forward
 
 2. discuss whether migrating is a permissions issue that is covered by the T & C
-It seems the T&C would cover migrating content. however, the materials BB is migrating is static documents (no discussion on documents). If there are comments to move with the resource they are minimal and benign. Some cases are a community discussion about governance, infrastructure. BB will move and notify if someone outside the group of Ambassadors has made a comment - and not move it. 
+
+  - It seems the T&C would cover migrating any content we wished to. However, the materials BB is migrating are largely static documents (no discussion on documents). If there are comments to move with the resource, they are mostly minimal and benign. Some cases are a community discussion about governance, infrastructure, etc.. BB will move and notify if someone outside the group of Ambassadors has made a comment—and not move it. 
 
 Next steps:
-- Need someone to review the materials and decide what to migrate (provide a list of links) 
-Heather - to look at community governance 
+
+- Need help reviewing the materials and deciding what to migrate and what to archive (provide a list of links)
+- Heather to look at community governance 
 
 ## Publication Updates and Ambassador Updates 
 
@@ -59,7 +61,7 @@ Heather
 
 Bryan 
 - migrating Discourse! Go Discourse Avengers!
-- idea to use definition to update past publications/books 
+- Next projext will be a third edition of the Leaders Manual (idea to use definition to update past publications/books)
 
 ## Upcoming discussions and tasks
  1. X, the former twitter? do we want to continue using or maybe mastodon
