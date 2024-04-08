@@ -4,18 +4,25 @@ Meeting conducted via Google Meet
 
 
 ## Attendees
-Ron M
-Heather L
-Jimmy S
-Heidi H
-Jim H
-Bryan B
+
+- Jimmy Sjölund
+- Heidi Hess von Ludewig
+- Heather Leson
+- Jim Hall
+- Ronald McFarland
+- Bryan B
+
 
 ## Housekeeping
 
 
 ## Project Updates
 ### Discourse to GitHub migration
+https://notes.theopenorganization.org/D3S_FmtpROmE5ZJ9YWuccA?view
+
+- JS: Check if we can see statistics on accessed discussions, then discuss migrating popular ones, delete any threads not read in a certain amount of time.
+
+How far back do we want to migrate over?
 
 BB update, from 3/21: 
 - BB to archive Ron's stuff on coachingbuttons - update - migrated to GH
