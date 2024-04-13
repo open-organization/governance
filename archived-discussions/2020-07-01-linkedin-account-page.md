@@ -70,11 +70,12 @@ Bryan | 2020-08-27 18:29:32 UTC | #7
 Glad to see this taking shape. A few additional thoughts from me.
 
 [quote="HeidiHVL, post:5, topic:144"]
-* Strategy: What will we use it for?
-I see LI as a “professional Facebook” where we would announce and disseminate information about our community.
+> * Strategy: What will we use it for?
+>   I see LI as a “professional Facebook” where we would announce and disseminate information about our community.
+>
+> * What is our messaging?
+> I was thinking that we would share announcements on our Open Organization publications (articles, books, podcasts), news, accomplishments, etc that are specifically Open Organization stuff
 
-* What is our messaging?
-I was thinking that we would share announcements on our Open Organization publications (articles, books, podcasts), news, accomplishments, etc that are specifically Open Organization stuff
 [/quote]
 
 I'm always in favor of finding target-rich environments for all the great writing everyone is doing (and resources everyone is making). I don't know much about how LinkedIn works. Would we just curate a "river of news" there, linking to our articles as they're published so others are aware of them and "click through" to read them? Do we actually repost/syndicate our material on LinkedIn—create modified versions of already-published pieces and post them there (I seem to recall that LinkedIn prefers "original content" posted on its platform)? Create discussion groups around the work, for greater interaction? Just trying to getting a better sense of "what happens on LinkedIn."
@@ -82,7 +83,8 @@ I'm always in favor of finding target-rich environments for all the great writin
 Related to this, for me, is the question: What is the goal of spinning up a venue on LinkedIn? Do we want to increase traffic to Opensource.com articles? Get more people to engage with us on Discourse? Get more people commenting on LinkedIn itself? I understand the first-level goal of "connecting with a new audience." But I guess my follow-up question then would be: Once we've connected, then what?
 
 [quote="HeidiHVL, post:5, topic:144"]
-* Would we share specific things from ambassadors that are not specifically created for the Open Organization? I’m guessing no because that is what personal LinkedIn accounts are for.
+> * Would we share specific things from ambassadors that are not specifically created for the Open Organization? I’m guessing no because that is what personal LinkedIn accounts are for.
+
 [/quote]
 
 As we currently do with Twitter (via retweets, etc.), another option is to use the OpenOrg LinkedIn mechanism to amplify what community members are doing (re-share their personal LinkedIn posts, etc.). Just something to consider there, too.
