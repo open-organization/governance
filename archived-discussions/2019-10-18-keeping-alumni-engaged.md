@@ -15,6 +15,7 @@ At dinner on Tuesday night, the conversation turned to how we can keep our ambas
 I had a very similar conversation on Sunday in the Opensource dot com Community Moderator meeting. Here's what I came up with:
 
 Ambassadors get (as an example. I'm not committing Bryan to anything):
+
 * An all-expenses paid trip to fabulous Raleigh, North Carolina for All Things Open
 * Cool limited edition Ambassador swag
 * Access to the private areas of Discourse
