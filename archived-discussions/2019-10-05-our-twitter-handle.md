@@ -6,14 +6,12 @@ Initiated 2019-10-05
 
 At All Things Open (more specifically, over beers at our post-conference dinner), @jenkelchner raised the possibility of altering our community's Twitter handle. I'm creating a space for us to continue that discussion here.
 
-### Context
-
+**Context**  
 Historically, the open organization community has tended to congregate on Twitter. Conversation typically follows the hashtag #TheOpenOrg. 
 
 The community's "official" account (which announces new releases, engages with supporters, promotes ambassador activities, etc.), is [`@OpenOrgBook`](https://twitter.com/openorgbook). It's an artifact from the community's genesis in Jim Whitehurst's *The Open Organization*, which launched in 2015. The Open Organization is no longer a single book by a single author, nor is it simply a community-driven conversation *about* that single book. Should our Twitter handle reflect the growth, maturity, and broadened scope of our work?
 
-### Suggestions
-
+**Suggestions**  
 If we *were* to change the handle, what might we choose? Add suggestions below. **Note that the official character limit for handles is apparently 15 characters.**
 
 - ~~`@OpenOrganization` **(available immediately)**~~
@@ -22,9 +20,8 @@ If we *were* to change the handle, what might we choose? Add suggestions below. 
 - `@TheOpenOrg` **(claimed but abandoned)**
 - `@OpenOrgMatters` **(community submission)**
 
-### Additional considerations
-
-- Should we get "verified"? How do we even do that?
+**Additional considerations**  
+Should we get "verified"? How do we even do that?
 **(Note that verification is currently closed for new accounts)**
 
 ## Jen Kelchner
@@ -54,7 +51,7 @@ I will also ask about:
 
 If anyone else has questions, simply add to the list and I'll be sure to raise them with the team.
 
-## Jen kelchner
+## Jen Kelchner
 2019-10-28
 
 Thanks @Bryan -- I feel like this was the tone of your answer... hahahaha :slight_smile: 
