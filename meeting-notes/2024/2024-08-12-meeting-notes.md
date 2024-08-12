@@ -27,17 +27,17 @@ Bryan: Reminder that we are now de facto maintainers of the [Open Decision Frame
 ## Publication Updates
 
 ### Ron's Corpus
-Ron: Continuing to publish on Coaching Buttons with Jim. Ron's articles appear once per week.
+Ron: Continuing to publish on Coaching Buttons with Jim. Ron's articles appear once per week.  
 Ron: Currently working on a series about startups and their community-focused work.
 
 ### News from Coaching Buttons
-Jim: Coaching Buttons is now publishing more frequently (twice per week, up from once per week)
-Jim: We have te goal of publishing an eBook this year! Goal is to have something published by September 01. Jim has an intern (U Minn.) working alongside him on this. Book will be available as download for free; it will also be available on Lulu as print-on-demand. If you want to propose something for the book, email Jim: jim@hallmentum.com
+Jim: Coaching Buttons is now publishing more frequently (twice per week, up from once per week)  
+Jim: We have te goal of publishing an eBook this year! Goal is to have something published by September 01. Jim has an intern (U Minn.) working alongside him on this. Book will be available as download for free; it will also be available on Lulu as print-on-demand. If you want to propose something for the book, email Jim at jim@hallmentum.com
  
 ## Ambassador Updates
 
 ### Jimmy
-Speaking at the Obeya Summit 2024 in Utrecht in November on the Open Decision Framework. Requires an article by 1st of September (so I should get started ...)
+Speaking at the Obeya Summit 2024 in Utrecht in November on the Open Decision Framework. Requires an article by 1st of September (so I should get started ...)  
 
 Anyone know of a good tshirt/shirt provider that would stitch/print single unit?
 
