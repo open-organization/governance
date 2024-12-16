@@ -14,7 +14,6 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Heidi Hess von Ludewig](https://github.com/HeidiHVL) | ... | Heidi Hess von Ludewig is a customer-focused Program manager. | Operations, transformation, program management, business analysis, data driven decision-making | April 2018
 | [Laura Hilliger](https://github.com/LauraHilliger) | We Are Open Co-Op | Laura Hilliger is an artist, educator, writer, technologist, multimedia designer, developer, technical liaison, project manager, and Open Web hacktivist who is happiest in collaborative environments. | Open and inclusive leadership, building community, open principles in non-profits | October 2015 |
 | [Sam Knuth](https://github.com/samuelknuth) | Red Hat | Sam Knuth leads the Customer Content Services team at Red Hat. | Making open decisions, open leadership | September 2015 |
-| [Heather Leson](https://github.com/heatherleson) | International Federation of Red Cross and Red Crescent Societies | Heather Leson is the Data Literacy Lead at International Federation of Red Cross and Red Crescent Societies supporting 191 National Societies and 11.6 million volunteers. | Open communities, open principles in humanitarian organizations | January 2019 |
 | [Ron McFarland](https://github.com/RonMcFarland) | Isuzu Motors (retired) | Ron McFarland has been working in Japan for 40 years, and he's spent more than 30 of them in international sales, sales management training, and expanding sales worldwide. | Building trustful teams | June 2016 |
 | [Allison Matlack](https://github.com/amatlack) | GitHub | Allison Matlack is a Returned Peace Corps Volunteer turned Principal Product Communications Strategist at Red Hat who is known for her enthusiastic speaking style and passion for helping leaders inspire their teams. | Open leadership and management, owning your career in an open organization | July 2016 |
 | [Jimmy Sjölund](https://github.com/jimmysjolund) | Red Hat | Jimmy Sjölund is a Principal Agile Practitioner at Red Hat, focusing on organisation transformation and team excellence while exploring agile and lean workflows. He is a visualisation enthusiast and an Open Organization Ambassador. | Agile/lean workflows, visualization methodologies, open meetings | July 2017 |
@@ -30,6 +29,7 @@ A list of [project contributors is available on GitHub](https://github.com/orgs/
 | [Rebecca Fernandez](https://github.com/ruhbehka) |
 | [Philip Foster](https://github.com/maximumchange) |
 | [Jen Kelchner](https://github.com/jenkelchner) |
+| [Heather Leson](https://github.com/heatherleson) |
 | [Robin Muilwijk](https://github.com/robinmuilwijk) |
 | [Angela Robertston](https://github.com/arob98) |
 | [Jonas Rosland](https://github.com/jonasrosland) | 
