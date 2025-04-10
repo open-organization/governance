@@ -7,6 +7,7 @@ https://meet.jit.si/openorganizationproject
 - Jimmy Sjolund
 - Ronald McFarland
 - Jim Hall
+- Jos Groen
 
 ## Housekeeping
 
